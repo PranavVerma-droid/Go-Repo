@@ -1,4 +1,4 @@
-#Data Types
+Data Types
 
 Programming languages need to process and organize data. That data is stored as binary numbers (numbers consisting of 0’s and 1’s) in the memory of your computer. In this way, binary numbers are used to represent many different things. Data types are designations by a programming language about what information is being stored. Go comes with a number of basic types, data types built into the programming language. It’s also possible to create your own types that combine these basic types into something more complex, but let’s first cover the data that you can store by default in Go.
 
