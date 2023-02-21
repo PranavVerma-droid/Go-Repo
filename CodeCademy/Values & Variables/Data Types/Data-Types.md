@@ -9,3 +9,5 @@ Go has three basic categories for numbers:
 2. Floating-point numbers, or floats, can include fractional data. You would use a float to store distances, percentages, and other quantities that required division or precision.
 
 3. Complex numbers, complex, are pairs of floating-point numbers where the second part of the pair is marked with the “imaginary” unit i. Complex numbers are particularly useful when reasoning in 2-dimensional space and have other utilizations that make them relevant for involved calculations, but we won’t be discussing them at length in this course.
+
+https://github.com/PranavVerma-droid/Go-Repo/blob/main/CodeCademy/Values%20%26%20Variables/Data%20Types/Data-Types.png
