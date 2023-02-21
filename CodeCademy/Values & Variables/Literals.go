@@ -3,11 +3,12 @@ In Go, values can be many things. Just to name a few, values can be numbers (lik
 
 We can perform arithmetic in Go with literals (or named values, covered in the next exercise) using the following operators:
 
+
 + to add
 - to subtract
 * to multiply
 / to divide
-% to take the remainder (the modulus operator) between two numbers.
+% to take the remainder
 
 
 fmt.Println(20 * 3) // Prints: 60
