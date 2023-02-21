@@ -1,5 +1,8 @@
-# Go-Repo
+# Go Repo (Finnally LEARNING IT)
 
+
+This Repo is made for LEARNING Perposes for Pranav Verma. <br>
+https://PranavVerma-droid <br>
 My Learning repo for the Programming lanugage **GoLang**
 
 https://go.dev <br>
