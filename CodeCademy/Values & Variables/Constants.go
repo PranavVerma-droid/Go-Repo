@@ -8,7 +8,7 @@ We use the const keyword to create a constant. We immediately assign a value to 
 	fmt.Println(funFact)
 	Which prints:
 
-Did you know? 
+Did you know?
 Hummingbirds' wings can beat up to 200 times a second.
 Above, we created a constant named funFact, which contains the text "Hummingbirds' wings can beat up to 200 times a second.". We were then able to print out this value using the names we applied. This is useful if a value doesn’t change throughout a program and it also helps to convey the developer’s intention of keeping a consistent value.
 
@@ -20,9 +20,9 @@ package main
 import "fmt"
 
 func main() {
-  // Create the constant earthsGravity
-  // here and set it to 9.80665
-  const earthsGravity = 9.80665 
-  // Here's where we print out the gravity:
-  fmt.Println(earthsGravity)
+	// Create the constant earthsGravity
+	// here and set it to 9.80665
+	const earthsGravity = 9.80665
+	// Here's where we print out the gravity:
+	fmt.Println(earthsGravity)
 }
