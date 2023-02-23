@@ -13,4 +13,16 @@ Above, we created three variables:
 2. A boolean value called isMusicOver.
 3. A 32-bit float called songRating.
 Notice that our variable names also follow the same naming convention of constants, using camelCase with a descriptive name.
+
+Create a variable called jellybeanCounter, that will store the number of jellybeans in a jar. Give it a type of int8.
+Successfully doing this will result in an error! We’ll talk more about errors in Go and how to read them in the next exercise, so continue when you’re ready.
 */
+
+package main
+
+func main() {
+	// Create the variable jellybeanCounter
+	// here and make its type int8
+	var jellybeanCounter int8
+
+}
